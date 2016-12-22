@@ -1,8 +1,8 @@
 # Kimi Syntax Theme
 
-[![apm](https://img.shields.io/apm/v/kimi-syntax.svg)]()
-[![apm](https://img.shields.io/apm/dm/kimi-syntax.svg)]()
-[![license](https://img.shields.io/github/license/LuqueDaniel/kimi-syntax.svg)]()
+[![apm](https://img.shields.io/apm/v/kimi-syntax.svg)](https://atom.io/packages/kimi-syntax)
+[![apm](https://img.shields.io/apm/dm/kimi-syntax.svg)](https://atom.io/packages/kimi-syntax)
+[![license](https://img.shields.io/github/license/LuqueDaniel/kimi-syntax.svg)](https://github.com/LuqueDaniel/kimi-syntax/blob/master/LICENSE.md)
 
 A dark blue syntax theme with pastel colors.
 
