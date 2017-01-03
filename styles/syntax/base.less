@@ -68,7 +68,6 @@
 .string {
   color: @green;
 
-
   &.regexp {
     color: @cyan;
 
@@ -117,7 +116,6 @@
   &.section.embedded {
     color: darken(@red, 10%);
   }
-
 }
 
 .support {
@@ -169,7 +167,7 @@
 
 .meta {
   &.class {
-    color: darken(@orange, 5%);
+    color: @syntax-text-color;
   }
 
   &.link {
@@ -229,14 +227,7 @@
     color: @orange;
   }
 
-  &.raw.inline {
-    color: @green;
-  }
-}
-
-.source.gfm .markup {
-  -webkit-font-smoothing: auto;
-  &.heading {
+  &.raw {
     color: @green;
   }
 }
