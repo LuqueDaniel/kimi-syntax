@@ -6,7 +6,7 @@
 
 A dark blue syntax theme with pastel colors.
 
-![Python example](https://cloud.githubusercontent.com/assets/1286535/21390273/65c384d0-c786-11e6-8a41-e5091bf7f50c.png)
+![Python example](https://user-images.githubusercontent.com/1286535/39961067-cbfb5178-562e-11e8-8b0f-9f4201476217.png)
 > Using one-dark-theme
 
 ## Install

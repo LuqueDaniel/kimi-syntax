@@ -1,3 +1,7 @@
+## 0.3.4 - 2018/05/12
+* Customize bracket-matcher styles
+* Added a border right to line number of current line
+
 ## 0.3.3 - 2017/11/14
 * Added [brackets highlight](https://github.com/atom/bracket-matcher/pull/290).
 
