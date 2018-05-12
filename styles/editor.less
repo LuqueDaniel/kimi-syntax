@@ -16,7 +16,7 @@ atom-text-editor {
     color: @syntax-invisible-character-color;
   }
 
-  .gutter {
+  .line-numbers {
     background-color: @syntax-gutter-background-color;
     color: @syntax-gutter-text-color;
 
@@ -24,6 +24,7 @@ atom-text-editor {
       &.cursor-line {
         background-color: @syntax-gutter-background-color-selected;
         color: @syntax-gutter-text-color-selected;
+        border-right: 3px solid @syntax-gutter-text-color-selected;
       }
 
       &.cursor-line-no-selection {
